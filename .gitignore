@@ -1,0 +1,6 @@
+.vs/
+*.dll
+*.pdb
+AutomatedTestProject/bin/
+AutomatedTestProject/obj/
+packages/
